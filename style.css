@@ -6,7 +6,7 @@ body{
 }
 .box{
   width: 450px;
-  background: rgba(256,256,256,0.4);
+  background: rgba(255,255,255,0.4);
   padding: 70px;
   text-align: center;
   margin: auto;
