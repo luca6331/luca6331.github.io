@@ -3,10 +3,11 @@ body{
   padding: 0;
   background: url('/graphics/placeholder.png') no-repeat;
   background-size: cover;
+  opacity: 0.5;
 }
 .box{
   width: 450px;
-  background: rgba(255,255,255,0.4);
+  background: rgba(255,255,255,0.25);
   padding: 50px;
   text-align: center;
   margin: auto;
@@ -21,6 +22,6 @@ body{
 }
 .box h1{
   font-size: 40px;
-  letter-spacing: 4px;
+  letter-spacing: 2px;
   font-weight: 100;
 }
