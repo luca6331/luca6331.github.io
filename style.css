@@ -1,9 +1,8 @@
 body{
   margin: 0;
   padding: 0;
-  background-image: url('/graphics/bg1.JPG'); /*no-repeat;*/
+  background: url('/graphics/bg1.JPG') no-repeat;
   background-size: cover;
-  background-repeat: no-repeat;
 }
 .box{
   width: 450px;
