@@ -2,7 +2,7 @@ body{
   margin: 0;
   padding: 0;
   background-image: url('/graphics/bg1.JPG'); /*no-repeat;*/
-  background-size: cover;
+  background-size: auto;
   background-repeat: repeat;
 }
 .box{
